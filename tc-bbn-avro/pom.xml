@@ -24,7 +24,7 @@
     <junit-version>4.11</junit-version>
     <mvn-assembly-version>2.2.1</mvn-assembly-version>
     <mvn-surefire-version>2.19</mvn-surefire-version>
-    <mvn-compiler-version>2.0.2</mvn-compiler-version>
+    <mvn-compiler-version>2.5.1</mvn-compiler-version>
   </properties>
 
   <dependencies>
