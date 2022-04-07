@@ -23,7 +23,7 @@
     <mvn-surefire-version>2.19</mvn-surefire-version>
     <mvn-compiler-version>2.0.2</mvn-compiler-version>
     <junit-version>4.11</junit-version>
-    <io-prometheus-version>0.0.21</io-prometheus-version>
+    <io-prometheus-version>0.15.0</io-prometheus-version>
   </properties>
 
   <dependencies>
