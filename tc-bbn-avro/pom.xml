@@ -20,7 +20,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <log4j.version>1.2.17</log4j.version>
     <slf4j.version>1.7.12</slf4j.version>
-    <kafka.version>0.9.0.0</kafka.version>
+    <kafka.version>2.4.1</kafka.version>
     <junit-version>4.11</junit-version>
     <mvn-assembly-version>2.2.1</mvn-assembly-version>
     <mvn-surefire-version>2.19</mvn-surefire-version>
